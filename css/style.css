@@ -239,7 +239,7 @@ body,
   height: 100%;
 }
 body {
-  background: #eee;
+  background: #fafafa;
   font: 15px/1.6em "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -292,7 +292,7 @@ body {
   -ms-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   z-index: 1;
-  background: #eee;
+  background: #fafafa;
 }
 .mobile-nav-on #wrap {
   left: 280px;
@@ -918,7 +918,7 @@ blockquote footer cite:before {
   line-height: 1em;
   padding: 6px 15px;
   border-radius: 15px;
-  background: #eee;
+  background: #fafafa;
   color: #555;
   text-shadow: 0 1px #fff;
   text-decoration: none;
@@ -1088,7 +1088,7 @@ blockquote footer cite:before {
 }
 .article-share-links {
   zoom: 1;
-  background: #eee;
+  background: #fafafa;
 }
 .article-share-links:before,
 .article-share-links:after {
