@@ -339,7 +339,7 @@ body {
 .article-entry h6,
 .widget h6 {
   font-weight: bold;
-  color: #000;
+  color: #424242;
   font-family: "Droid Serif", Georgia, Serif;
 }
 .article-entry h1 a,
@@ -354,7 +354,7 @@ body {
 .widget h5 a,
 .article-entry h6 a,
 .widget h6 a {
-  color: #000;
+  color: #424242;
   text-decoration: none;
 }
 .article-entry h1 a:hover,
@@ -687,7 +687,7 @@ body {
 .search-form-input {
   border: none;
   background: none;
-  color: #000;
+  color: #424242;
   width: 100%;
   font: 13px "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   outline: none;
@@ -766,7 +766,7 @@ body {
   text-decoration: none;
   font-size: 1.5em;
   font-weight: bold;
-  color: #000;
+  color: #424242;
   line-height: 1.1em;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
@@ -779,7 +779,7 @@ a.article-title:hover {
 }
 .article-entry {
   zoom: 1;
-  color: #000;
+  color: #424242;
   padding: 0 20px;
 }
 .article-entry:before,
@@ -950,7 +950,7 @@ blockquote footer cite:before {
   text-decoration: none;
 }
 .article-footer a:hover {
-  color: #000;
+  color: #424242;
 }
 .article-tag-list-item {
   float: left;
@@ -1020,7 +1020,7 @@ blockquote footer cite:before {
   display: block;
 }
 .article-nav-link-wrap:hover {
-  color: #000;
+  color: #424242;
 }
 @media screen and (min-width: 768px) {
   .article-nav-link-wrap {
@@ -1079,7 +1079,7 @@ blockquote footer cite:before {
   box-sizing: border-box;
   font: 14px "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 0 15px;
-  color: #000;
+  color: #424242;
   outline: none;
   border: 1px solid #ddd;
   border-radius: 3px 3px 0 0;
@@ -1296,7 +1296,7 @@ blockquote footer cite:before {
 .archive-article-title {
   text-decoration: none;
   font-weight: bold;
-  color: #000;
+  color: #424242;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -o-transition: color 0.2s;
@@ -1367,7 +1367,7 @@ blockquote footer cite:before {
   }
 }
 #page-nav .current {
-  color: #000;
+  color: #424242;
   font-weight: bold;
 }
 #page-nav .space {
